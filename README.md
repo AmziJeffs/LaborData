@@ -1,2 +1,2 @@
 # LaborData
-Data analysis on labor unions in the United States
+Data analysis on labor unions in the United States using Pandas
